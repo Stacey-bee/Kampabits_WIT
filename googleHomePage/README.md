@@ -1,0 +1,1 @@
+I created a clone of the google homepage using html and CSS.\n The files as well as the images I used are in this folder. 
