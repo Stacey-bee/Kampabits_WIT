@@ -1,0 +1,72 @@
+
+/* this is the navigation menu */
+ul.a {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: coral;
+    margin: 0; padding: 0;
+    
+}
+div li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+a {
+    display: block;
+    padding: 14px 16px;
+    color: cornsilk;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: burlywood;
+}
+/* end of navigation menu */
+
+/* This is the heading */
+h1 {
+    color:darksalmon;
+    font-style: bold; font-size: 50px;
+}
+
+/* This is the first paragraph */
+p {
+font-style: bold; font-size: 30px; color: cornflowerblue;
+}
+
+/* This is the second paragraph */
+p.ptwo {
+    font-style: italic; color: crimson; font-size: 30px;
+}
+
+/* This is the list of 5 items - ordered list */
+ol {
+    color: darkred; font-size: 30px;
+}
+
+/* This is the list of 5 items - unordered list */
+ul {
+    color: darkslateblue; font-size: 30px;
+}
+/* This is the table */
+table {
+width:100%; border-collapse: collapse; font-size: 25px; color: tomato; font-style: bold;
+}
+div .divtwo{
+    color: coral;
+}
+
+/*this is design for table heading*/
+h2 {
+    color:brown; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 30px; text-align: center;
+}
+
+/* this is the image */
+img.girl {
+    width: 500px; height: 500px;
+}
+
+/* this is the link to the twitter home */
+img.twitter{
+    width: 100px; height: 50px; padding-right: 1050px; float: left;
+}
