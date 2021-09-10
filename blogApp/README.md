@@ -1,0 +1,1 @@
+A blogging app created using html, css, and javascript.
