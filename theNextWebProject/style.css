@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*Section one (First navbar)*/
+.nav-links{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 12px;    
+}
+.nav-item{
+    display: inline;
+    padding-left: 15px;    
+}
+.about{
+    margin-left: 650px;
+}
+
+/*Section two (second navbar)*/
+.navTwo-item{
+    display: inline;
+    font-size: 13px;
+    padding-left: 20px;   
+}
+
+/*Section four(Two column section: three images;one on left, two on right)*/
+/*Image on the left*/
+.section_four{
+    background-image: url(images/ibm.jpg); height: 450px;  
+}
+div[class="text-down"]{
+    margin-top: 170px;
+}
+.friday{
+    padding-left: 400px;
+}
+
+.head_one{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Image on the right_top*/
+.para_one{
+    background-image: url(images/phone.jpg); height: 220px;
+    padding-top: 80px;
+}
+
+/*Image on the right_bottom*/
+.para_two{
+    background-image: url(images/wolf.jpg); height: 220px;
+    background-repeat: no-repeat; background-size: cover;
+    padding-top: 75px;
+}
+/*Section five (Latest News: two sections)*/
+/*first section (cards): one row - four columns*/
+.card{
+    width: 270px;
+}
+
+.cardImages{
+    height: 170px;
+}
+
+.cardParagraph{
+    font-style: bold; font-weight: 400px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-width{
+    width: 350px;
+}
+.images{
+    float: right;
+    
+}
+.mag{
+    margin-right: 20px;
+}
+
+/*Section seven (Hard fork, Apps, Gear: one row - three columns, cards)*/
+/*hardforks card*/
+.bg_img_hardforks{
+    background-image: url(images/phone.jpg); 
+    padding-top: 100px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 59px;
+}
+
+/*Apps card*/
+.bg_img_apps{
+    background-image: url(images/black.jfif); 
+    padding-top: 121px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+
+/*Gear card*/
+.bg_img_gear{
+    background-image: url(images/laptop.jfif); 
+    padding-top: 121px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+
+/*Section eight (Tech, Creative, Podium: one row - three columns, cards)*/
+/*Tech card*/
+.bg_img_tech{
+    background-image: url(images/ibmm.jfif); 
+    padding-top: 95px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    background-repeat: no-repeat; background-size: cover;    
+}
+
+/*Creative card*/
+.bg_img_creative{
+    background-image: url(images/estate.jfif); 
+    padding-top: 145px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+/*podium card*/
+.bg_img_podium{
+    background-image: url(images/colors.jpg); 
+    padding-top: 98px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    background-repeat: no-repeat; background-size: cover;
+}
+.mag_two{
+    padding-right: 20px;
+}
+
+/*Section nine (Insights, launch, distract: one row - three columns, cards)*/
+/*Insights card*/
+.bg_img_insights{
+    background-image: url(images/black.jfif); 
+    padding-top: 98px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+/*launch card*/
+.bg_img_launch{
+    background-image: url(images/black_car.gif); 
+    padding-top: 98px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+/*Distract card*/
+.bg_img_distract{
+    background-image: url(images/tower.jfif); 
+    padding-top: 75px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-repeat: no-repeat; background-size: cover;
+}
+
+/*--last footer - at bottom*/
+.footer-two{
+    padding-left: 400px;
+}
+.img-three{
+    padding-left: 400px;
+}
+.ft-bottom{
+    background-color: black;
+}

@@ -1,0 +1,221 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*First nav bar*/
+.navbar {
+    background-color: black;
+    height: 35px; 
+}
+.nav-links{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    font-size: 12px;    
+}
+.nav-item{
+    display: inline;
+    padding-left: 15px;  
+    
+}
+
+.nav-right{
+    float: right;
+}
+.about{
+    margin-left: 700px;
+}
+/*second nav bar*/
+.navbarTwo_links{
+    text-decoration: none;
+    list-style-type: none;
+    padding-top: 10px;
+    height: 30px;
+    
+}
+.navTwo-item{
+    display: inline;
+    font-size: 13px;
+    padding-left: 20px;
+}
+.firstP{
+    background-color: orange;
+}
+
+.section_one{
+    background-image: url(ibm.jpg);
+}
+.head_one{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div[class="mg"]{
+    margin-top: 250px;
+}
+.img_right {
+    padding-bottom: 10px; 
+}
+.pone{
+    background-image: url(phone.jpg); 
+    padding-top: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.ptwo{
+    background-image: url(wolf.jpg);
+    color: white; background-repeat: no-repeat; background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.small_para{
+    float: right;
+}
+.card{
+    width: 270px;
+}
+.cardImages{
+    height: 170px;
+}
+
+.cardParagraph{
+    font-style: bold; font-weight: 400px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-body{
+border: none;
+}
+
+.card-width{
+    width: 350px;
+}
+.images{
+    float: right;
+    
+}
+.mag{
+    margin-right: 20px;
+}
+
+.bg_img_hardforks{
+    background-image: url(phone.jpg); 
+    padding-top: 100px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    padding-right: 59px;
+}
+
+.bg_img_apps{
+    background-image: url(black.jfif); 
+    padding-top: 121px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+
+.bg_img_gear{
+    background-image: url(laptop.jfif); 
+    padding-top: 121px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+.bg_img_tech{
+    background-image: url(ibmm.jfif); 
+    padding-top: 95px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    background-repeat: no-repeat; background-size: cover;
+    
+}
+.bg_img_creative{
+    background-image: url(estate.jfif); 
+    padding-top: 145px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+.bg_img_podium{
+    background-image: url(colors.jpg); 
+    padding-top: 98px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    background-repeat: no-repeat; background-size: cover;
+}
+.mag_two{
+    padding-right: 20px;
+}
+.bg_img_insights{
+    background-image: url(black.jfif); 
+    padding-top: 98px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+.bg_img_launch{
+    background-image: url(black_car.gif); 
+    padding-top: 98px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+}
+.bg_img_distract{
+    background-image: url(tower.jfif); 
+    padding-top: 75px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-repeat: no-repeat; background-size: cover;
+}
+.footer_one{
+    background-color: rgb(20, 19, 19);
+    margin-top: 30px;
+}
+.ft_img{
+    margin-left: 450px; margin-top: 20px; margin-bottom: 20px;
+}
+.ft_links{
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 500px;
+    font-size: 11px;
+    padding-bottom: 20px;
+}
+.footer_two{
+    background-color: rgb(7, 0, 0);
+    margin-top: 0px;
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 322px;
+}
+.ft_img_two{
+    padding-left: 450px;
+    background-color: rgb(7, 0, 0);
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.bckgnd{
+    background-color: rgb(7, 0, 0); 
+}
+
+/*latest funding rounds*/
+.age_bold{
+    background-color: rgb(255, 51, 0);
+    padding: 8px;
+}
+.age_two{
+    /*background-color: pink;*/
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.fitness{
+   padding-bottom: 30px;
+   padding: 10px;
+   
+}
+.hr_latest{
+    color: rgb(204, 39, 66);
+}
+/*latest deals*/
+.see_deals{
+    float: right;
+}
+.section_seven{
+    padding-bottom: 50px;
+}
