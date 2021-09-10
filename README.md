@@ -1,0 +1,1 @@
+This repo has a few of the projects done during the Kampabits Women In Technology training, class of 2020/21.
